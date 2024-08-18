@@ -1,7 +1,5 @@
+![2698](https://github.com/user-attachments/assets/3d0b4c8d-dfb5-49db-9d0b-ed3fc37e62bb)
 Hi there 👋
-**sulaiman247/Sulaim![2698](https://github.com/user-attachments/assets/3d0b4c8d-dfb5-49db-9d0b-ed3fc37e62bb)
-an247**
-
 
 - 🔭 I’m currently student of the university of Benin, Nigeria
 - 🌱 I’m currently learning Data science(python) and software development(Ruby on rails and Golang)
