@@ -1,4 +1,4 @@
-![2698](https://github.com/user-attachments/assets/3d0b4c8d-dfb5-49db-9d0b-ed3fc37e62bb)
+https://github.com/user-attachments/assets/3d0b4c8d-dfb5-49db-9d0b-ed3fc37e62bb
 Hi there 👋
 
 - 🔭 I’m currently student of the university of Benin, Nigeria
