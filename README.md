@@ -1,6 +1,6 @@
-![2698](https://github.com/user-attachments/assets/3d0b4c8d-dfb5-49db-9d0b-ed3fc37e62bb)<hr>
+![2698](https://github.com/user-attachments/assets/3d0b4c8d-dfb5-49db-9d0b-ed3fc37e62bb) <hr/>
 Hi there 👋
-
+ My name is Sulaiman
 - 🔭 I’m currently student of the university of Benin, Nigeria
 - 🌱 I’m currently learning Data science(python) and software development(Ruby on rails and Golang)
 - 👯 I’m looking to collaborate on any project which will improve my skills and the lives of people around me.
